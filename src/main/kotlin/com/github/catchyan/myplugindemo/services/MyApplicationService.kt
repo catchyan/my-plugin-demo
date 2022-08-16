@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.catchyan.myplugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.catchyan.myplugindemo.MyBundle
 
 class MyApplicationService {
 
